@@ -1,5 +1,9 @@
 ### WHOAMI
-
+-Anti-Malware ♖
+-Full Stack Developer ♗
+-Ethical H4cker ♘
+-Coder.asm ♕
+-Computer Science ♔
 <!--
 **21o1/21o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
