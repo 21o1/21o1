@@ -20,7 +20,7 @@
 ***-Social Media accs?***   
 ***__[Instagram ・ i0xb4d](https://www.instagram.com/i0xb4d)__***  
  ***__[twitter ・ 0x183](https:///www.twitter.com/0x183)__***    
- ***__[reddit ・ 0xs4](https://www.reddit.com/0xs4)__***  
+ ***__[reddit ・ 0xs4](https://www.reddit.com/u/0xs4)__***  
  ***__[discord ・ 0x#9793](https://discord.gg/user/0x#9793)__***  
  
  
