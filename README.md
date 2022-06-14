@@ -11,13 +11,13 @@
 
 -Social Media accs?
 
-[Instagram]: 
+[Instagram ・ i0xb4d] 
 @https://www.instagram.com/i0xb4d
-\n[twitter]:
+[twitter ・ 0x183]
 @https:///www.twitter.com/0x183
-\n[reddit]:
+[reddit ・ 0xs4]
 @https://www.reddit.com/0xs4
-\n[discord]:
+[discord ・ 0x#9793]
 @https://discord.gg/user/0x#9793
 
 <!--
