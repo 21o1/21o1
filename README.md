@@ -53,7 +53,8 @@ $**Design Languages(Full Stack Developer)**
 ✥React Js   
 ✥Next Js   
 ✥Regex*
-<img src="https://github-readme-stats.vercel.app/api?username=21o1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img src="https://github-readme-stats.vercel.app/api?username=21o1&&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=daf7dc&bg_color=151515">
 <!--
 **21o1/21o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
