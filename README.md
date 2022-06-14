@@ -1,21 +1,35 @@
-### WHOAMI
--Anti-Malware ♖
+### ***_Knowledge:_***
+**---- ♖ Anti-Malware ♖ ----**             
+**---- ♗ Full Stack Developer ♗ ----**           
+**---- ♘ Ethical H4cker ♘ ----**               
+**---- ♕ Coder.asm ♕ ----**             
+**---- ♔ Computer Science ♔ ----**            
+**---- ♙ DigitalForensics ♙ ----**                
+**---- ♚ Computing ♚ ----**            
+**---- ♤ Ctf Player ♤ ----**            
+**---- ♧ Bug Hunter ♧ ----**            
+**---- ♡ Reverse Engineer ♡ ----**            
+**---- ♢ Exploit Developer ♢ ----**            
+**---- ✤ System Develoepr ✤ ----**            
+**---- ✥ Malware Analyzer ✥ ----**            
+**---- ✣ CS Student ✣ ----**            
+**---- ✢ Ethical Hacker ✢ ----**            
 
--Full Stack Developer ♗
+#***6 Years In Digital World...***
 
--Ethical H4cker ♘
+***-Social Media accs?***   
+***__[Instagram ・ i0xb4d](https://www.instagram.com/i0xb4d)__***  
+ ***__[twitter ・ 0x183](https:///www.twitter.com/0x183)__***    
+ ***__[reddit ・ 0xs4](https://www.reddit.com/0xs4)__***  
+ ***__[discord ・ 0x#9793](https://discord.gg/user/0x#9793)__***  
+ 
+ 
 
--Coder.asm ♕
 
--Computer Science ♔
 
--Social Media accs?
 
-***~~[Instagram ・ i0xb4d](https://www.instagram.com/i0xb4d)~~***  
- ***~~[twitter ・ 0x183](https:///www.twitter.com/0x183)~~***    
- ***~~[reddit ・ 0xs4](https://www.reddit.com/0xs4)~~***  
- ***~~[discord ・ 0x#9793](https://discord.gg/user/0x#9793)~~***  
 
+<img src="https://github-readme-stats.vercel.app/api?username=21o1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **21o1/21o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
