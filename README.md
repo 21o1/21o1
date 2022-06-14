@@ -58,8 +58,7 @@ $**Design Languages(Full Stack Developer)**
  
 
 
-__*** 
-Welcome To My Server ,, Learn EveryThing With Us (MalwareAnalysis , ExploitDev, SystemDev,AI,ML,Assembly , Computing , Programming With Most Famous Languages!!),,, With Nice Explain , ~~Join With Us Now !!!~~
+__***Welcome To My Server ,, Learn EveryThing With Us (MalwareAnalysis , ExploitDev, SystemDev,AI,ML,Assembly , Computing , Programming With Most Famous Languages!!),,, With Nice Explain , ~~Join With Us Now !!!~~
 https://discord.gg/AREEpFXeTW  (Share Bot)***__
 
 
