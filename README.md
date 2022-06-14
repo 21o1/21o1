@@ -39,7 +39,7 @@ $**Languages--Master**
 ✥Assembly   
 ✥Java   
 ✥Js (node)   
-✥Rust
+✥Rust   
 ✥Sql*   
 
 $**Design Languages(Full Stack Developer)**
