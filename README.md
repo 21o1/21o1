@@ -11,12 +11,9 @@
 
 -Social Media accs?
 
-***~~[Instagram ・ i0xb4d](https://www.instagram.com/i0xb4d)~~***
-
-***~~[twitter ・ 0x183](https:///www.twitter.com/0x183)~~***
-
-***~~[reddit ・ 0xs4](https://www.reddit.com/0xs4)~~***
-
+***~~[Instagram ・ i0xb4d](https://www.instagram.com/i0xb4d)~~***,
+***~~[twitter ・ 0x183](https:///www.twitter.com/0x183)~~***,
+***~~[reddit ・ 0xs4](https://www.reddit.com/0xs4)~~***,
 ***~~[discord ・ 0x#9793](https://discord.gg/user/0x#9793)~~***
 
 <!--
