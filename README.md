@@ -13,7 +13,7 @@
 **---- ✤ System Develoepr ✤ ----**            
 **---- ✥ Malware Analyzer ✥ ----**            
 **---- ✣ CS Student ✣ ----**            
-**---- ✢ Ethical Hacker ✢ ----**            
+          
 
 #***6 Years In Digital World...***
 
