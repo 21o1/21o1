@@ -51,9 +51,9 @@ $**Design Languages(Full Stack Developer)**
 ✥Regex*
 
 ***-Social Media accs?***   
-***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x183" height="30" width="40">](https://www.instagram.com/i0xb4d)__***  
- ***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x183" height="30" width="40">](https:///www.twitter.com/0x183)__***    
- ***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="0x183" height="30" width="40">](https://www.reddit.com/u/0xs4)__***  
+***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x183" height="30" width="40">](https://www.instagram.com/i0xb4d)__***
+ ***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x183" height="30" width="40">](https:///www.twitter.com/0x183)__***
+ ***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="0x183" height="30" width="40">](https://www.reddit.com/u/0xs4)__***
  ***__[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0x183" height="30" width="40">](https://discord.gg/user/0x#9793)__***  
  
 
@@ -61,7 +61,7 @@ $**Design Languages(Full Stack Developer)**
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21o1&show_icons=true&locale=en" alt="21o1" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=21o1&&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=daf7dc&bg_color=151515">
 
 <h3 align="left">Languages And Softwares:</h3>
 
