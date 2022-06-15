@@ -10,7 +10,7 @@
 **---- ♧ Bug Hunter ♧ ----**            
 **---- ♡ Reverse Engineer ♡ ----**            
 **---- ♢ Exploit Developer ♢ ----**            
-**---- ✤ System Develoepr ✤ ----**            
+**---- ✤ System Developer ✤ ----**            
 **---- ✥ Malware Analyzer ✥ ----**            
 **---- ✣ CS Student ✣ ----**            
           
