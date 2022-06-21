@@ -1,5 +1,5 @@
 ### ***_Knowledge:_***
-**---- ♖ Anti-Malware ♖ ----**             
+**---- ✣ Anti-Malware ♖ ----**             
 **---- ♗ Full Stack Developer ♗ ----**           
 **---- ♘ Ethical H4cker ♘ ----**               
 **---- ♕ Coder.asm ♕ ----**             
@@ -12,20 +12,17 @@
 **---- ♢ Exploit Developer ♢ ----**            
 **---- ✤ System Developer ✤ ----**            
 **---- ✥ Malware Analyzer ✥ ----**            
-**---- ✣ CS Student ✣ ----**            
+**---- ✣ CS Student ✣ ----**
+**---- ♖ AI Developer ✣ ----**
           
 
 #***6 Years In Digital World...***
+#***Computer Science Student (2/5 year)***
+#***Content Creator In Instagram(@i0xb4d)***
+#***Human Without Heart***
 
  
  
-
-
-
-
-
-
-
 
 ***-Programming Languages ?***
 
