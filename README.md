@@ -12,14 +12,14 @@
 **---- ♢ Exploit Developer ♢ ----**            
 **---- ✤ System Developer ✤ ----**            
 **---- ✥ Malware Analyzer ✥ ----**            
-**---- ✣ CS Student ✣ ----**
-**---- ♖ AI Developer ✣ ----**
+**---- ✣ CS Student ✣ ----**   
+**---- ♖ AI Developer ✣ ----**   
           
 
 #***6 Years In Digital World...***
-#***Computer Science Student (2/5 year)***
-#***Content Creator In Instagram(@i0xb4d)***
-#***Human Without Heart***
+#***Computer Science Student (2/5 year)***   
+#***Content Creator In Instagram(@i0xb4d)***   
+#***Human Without Heart***   
 
  
  
