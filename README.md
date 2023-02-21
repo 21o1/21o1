@@ -17,9 +17,8 @@
           
 
 #***6 Years In Digital World...***   
-#***Computer Science Student (2/5 year)***   
-#***Content Creator In Instagram(@i0xb4d)***   
-#***Human Without Heart***   
+ 
+ 
 
  
  
